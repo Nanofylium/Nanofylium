@@ -1,5 +1,3 @@
-🍃 Nanofylium
-
 <img width="319" height="563" alt="Nanofylium-ASCII_1" src="https://github.com/user-attachments/assets/72c967a7-6d33-41fb-9ee9-54b39c3a62ed" />
 
 

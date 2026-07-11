@@ -2,6 +2,7 @@
 
 <img width="319" height="563" alt="Nanofylium-ASCII_1" src="https://github.com/user-attachments/assets/72c967a7-6d33-41fb-9ee9-54b39c3a62ed" />
 
+
 "Optimum dissimulamentum non est quod celat. Est quod oculum exercitatum fallit ut credat se iam vidisse omnia quae videre opus erat."
 
 
